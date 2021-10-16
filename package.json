@@ -1,0 +1,23 @@
+{
+  "name": "cy-example01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreendo/cy-example01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreendo/cy-example01/issues"
+  },
+  "homepage": "https://github.com/andreendo/cy-example01#readme",
+  "devDependencies": {
+    "cypress": "^4.12.0"
+  }
+}
